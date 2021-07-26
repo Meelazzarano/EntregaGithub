@@ -42,10 +42,10 @@ h1 {
 }
 @for $i from 1 through 5 {
     h#{$i} 
-    {color: $titulos;
-    font-style: oblique; 
-    font-weight: bold;
-    font-size: 1.0 + (1 - ($i+2)/10);}
+        {color: $titulos;
+        font-style: oblique; 
+        font-weight: bold;
+        font-size: 1.0 + (1 - ($i+2)/10);}
 }
 li a {
     color: white;
