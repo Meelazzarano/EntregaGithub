@@ -8,6 +8,7 @@ $titulos: teal;
     font-family: 'Dosis', sans-serif;
     box-sizing: border-box;
 }
+
 header {
     background-color: rgb(255, 255, 255);
     color: black;
@@ -18,9 +19,11 @@ header {
     top: 0px;
     display: flex;
 } 
+
 .borde {
     border-style:ridge;
 }
+
 body {
   background-image: url("/Multimedia/equipo-negocios.jpg");
   background-repeat:no-repeat;
@@ -29,11 +32,27 @@ body {
   color: aliceblue;
   line-height: 1.6;
 }
+
 .flex__fondo {
     background-color: #2c3d54;
     border-radius: 1em;
     margin: 1em;
-    padding: 1em;    
+    padding: 1em;
+}
+.flexWrap_Comunidad {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 96%;
+}
+.flex__comunidad {
+    background-color: #2c3d54;
+    border-radius: 0.5em;
+    box-shadow: 0 5px 5px 0 whitesmoke;
+    margin: 1em;
+    padding: 1em;
+    display: inline-block;
+    align-items: center;
 }
 h1 {
     text-decoration-line: underline;
@@ -42,6 +61,7 @@ h1 {
     margin: 13px;
     padding: 13px;
 }
+
 @for $i from 1 through 5 {
     h#{$i} 
         {color: $titulos;
@@ -49,9 +69,11 @@ h1 {
         font-weight: bold;
         font-size: 1.0 + (1 - ($i+2)/10);}
 }
+
 li a {
     color: white;
 }
+
 .listasSinLinks {
     font-weight: bold;
 }
@@ -76,10 +98,12 @@ header nav li{
     display: inline;
     padding: 10px;
 }
+
 a.menuHeader {
     text-decoration: none;
     color: black;
 }
+
 ul.sinVinieta {
     list-style-type: none ;
 }
@@ -95,21 +119,12 @@ ul.sinVinieta {
     position: fixed;
     bottom: 0;
     line-height: 1;
-
 }
+
 footer div {
     display:inline-block;
     margin: 0 10px;
 }
-
-// #margenInferior {
-//     display: flex;
-//     flex-direction: column;
-//     margin: 1em 1em 8em 1em;
-//     background-color: #2c3d54;
-//     border-radius: 1em;
-//     padding: 1em;
-// }
 
 #margenInferior {
     display: flex;
@@ -174,7 +189,7 @@ span {
     font-size: 150%;
     align-content: center;
 }
-.flex {
+.flexNoWrap_Index {
     display: flex;
     flex-direction: row;
     width: 96%;
@@ -199,7 +214,6 @@ span {
     border-radius: 1em;
     padding: 1em;
 }
-
 .gridArea__derecha {
     display: flex;
     flex-direction: column;
