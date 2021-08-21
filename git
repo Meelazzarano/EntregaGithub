@@ -1,0 +1,64 @@
+[33mcommit 7e7643d02817f2117ae4e8c783bccc5e1727007b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Sat Aug 21 01:03:11 2021 -0300
+
+    corrección de detalles de diseño. Fondo estático
+
+[33mcommit e09121738fdd1a57fb378cbe14e91118dd4b4f99[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: db9639e e9d5fe2
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Mon Aug 2 23:40:55 2021 -0300
+
+    Merge branch 'main' of https://github.com/Meelazzarano/EntregaGithub
+    Hice lio
+
+[33mcommit db9639e10487d07b4f8724e12696731e5f6d9be8[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Mon Aug 2 23:31:44 2021 -0300
+
+    actualización multimedia
+
+[33mcommit e9d5fe205489f61e2563cec4b63fbbaf65b93c8c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 94d521b a521356
+Author: Meelazzarano <88117404+Meelazzarano@users.noreply.github.com>
+Date:   Mon Aug 2 23:28:17 2021 -0300
+
+    Merge pull request #1 from Meelazzarano/rama-comunidad
+    
+    iconos redes sociales
+
+[33mcommit a5213565b4f1f2a191200c35619203c4e2798360[m[33m ([m[1;31morigin/rama-comunidad[m[33m, [m[1;32mrama-comunidad[m[33m)[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Mon Aug 2 23:16:19 2021 -0300
+
+    iconos redes sociales
+
+[33mcommit 94d521b570665bc19f41a97bbb663d7d76346188[m
+Author: Meelazzarano <88117404+Meelazzarano@users.noreply.github.com>
+Date:   Wed Jul 28 22:54:05 2021 -0300
+
+    agregue nombres
+
+[33mcommit d2ed4eaa60f89c90ea800d7cbf7e4b3f49b5404d[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Wed Jul 28 22:30:04 2021 -0300
+
+    word ignorado, enlaces corregidos
+
+[33mcommit e6362366e78d5956b3c65b4705c32163575b3f39[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Sun Jul 25 21:19:44 2021 -0300
+
+    html experiencia completo
+
+[33mcommit 2a05c52361d8afb2a2b0eb004b72dcaa296cbb5a[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Sun Jul 25 20:27:03 2021 -0300
+
+    multimedia ignorado
+
+[33mcommit 881d26f85ea1589c8846eb74e0f29497812ec043[m
+Author: Melina Lazzarano <mlazzarano@alumno.unlam.edu.ar>
+Date:   Sun Jul 25 20:25:54 2021 -0300
+
+    primer commit, node ignorado
